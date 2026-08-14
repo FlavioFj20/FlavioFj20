@@ -1,193 +1,151 @@
-# Olá, sou o Flávio Garcia 👋
+<div align="center">
+
+# Flávio Garcia
 
 ### Full-Stack Software Developer | Backend-Focused | Node.js · TypeScript · C/C++
 
-[🇬🇧 English](README.md) · [🇵🇹 Português](README.pt.md)
+**Cadete da 42 Luanda · Luanda, Angola**
 
-Construo aplicações web e sistemas de software, atualmente com foco crescente em engenharia de backend.
+Construo software em diferentes camadas, com foco em backend e uma forte base em programação de sistemas.
 
-A minha experiência começou com aplicações web full-stack usando PHP/MySQL e expandiu-se através de programação de sistemas, Unix/Linux e redes na 42 Luanda. Atualmente estou aprofundando backend com Node.js, TypeScript, PostgreSQL e desenvolvimento de APIs, enquanto continuo a desenvolver projetos full-stack.
+<p>
+  <a href="README.md">🇬🇧 English</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/flávio-garcia-1b63aa368">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:flavio.garcia.dev86@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/flaviofuxipinto">Instagram</a>
+</p>
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,react,tailwind,php,mysql,c,cpp,linux" height="38" alt="Node.js, TypeScript, PostgreSQL, React, Tailwind CSS, PHP, MySQL, C, C++, Linux" />
 
-## Sobre mim
-
-Sou um desenvolvedor de software em formação com experiência prática em frontend, backend, bases de dados, programação de sistemas e networking.
-
-A minha direção atual é **desenvolvimento full-stack com foco maior em backend**. Gosto de compreender como o software funciona através das várias camadas — de C/C++ e conceitos de sistemas operacionais até HTTP, APIs, bases de dados e aplicações web.
-
-O meu percurso inclui:
-
-- aplicações full-stack com PHP + MySQL
-- JavaScript e desenvolvimento web no browser
-- programação de sistemas com C/C++ na 42 Luanda
-- fundamentos de Unix/Linux e redes
-- desenvolvimento backend com Node.js e TypeScript
-- REST APIs, HTTP e bases de dados relacionais
-- aplicações CLI e projetos com persistência de dados
-
-Ainda não me considero especialista. O meu objetivo é continuar a evoluir de aprendizagem guiada para desenvolvimento cada vez mais independente.
+</div>
 
 ---
 
-## Foco atual
+### A minha trajetória
 
-```text
-Desenvolvimento Full-Stack
-        │
-        ├── Backend
-        │   ├── Node.js
-        │   ├── TypeScript
-        │   ├── Express
-        │   ├── REST APIs
-        │   └── PostgreSQL
-        │
-        ├── Frontend
-        │   ├── HTML
-        │   ├── CSS
-        │   ├── JavaScript
-        │   └── React
-        │
-        └── Base de Engenharia
-            ├── C / C++
-            ├── Linux / Unix
-            ├── HTTP
-            └── Networking
-```
+Comecei com um **ensino médio técnico em Informática**, depois construí aplicações web com **PHP/MySQL** e continuei a minha formação na **42 Luanda**, onde fortalecei as bases em C/C++, Unix/Linux, redes e engenharia de software.
 
-Atualmente estou:
+Hoje utilizo **Node.js e TypeScript** para construir e estudar sistemas backend, enquanto continuo a evoluir como desenvolvedor full-stack. Grande parte dessa evolução vem de **aprendizado autodidata**: ler documentação, pesquisar conceitos desconhecidos, construir projetos, testar ideias e usar cada projeto para descobrir a próxima lacuna que preciso preencher.
 
-- construindo projetos Node.js + TypeScript do roadmap.sh
-- fortalecendo PostgreSQL, SQL e design de APIs
-- praticando arquitetura backend e testes
-- continuando o percurso da 42 Luanda, atualmente com Inception
-- preparando a reconstrução de projetos antigos com stacks modernas para comparar a minha evolução técnica
+> **Quer conhecer melhor a minha trajetória, projetos e experiência técnica?**  
+> [**Explorar mais sobre mim →**](#mais-sobre-mim)
 
----
+### Tecnologias que utilizo
 
-## Tecnologias com que já trabalhei
+**Foco atual**
 
-### Linguagens
+<img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,react,tailwind" height="38" alt="Node.js, TypeScript, PostgreSQL, React, Tailwind CSS" />
 
-C · C++ · JavaScript · TypeScript · PHP · SQL
+`Node.js` `TypeScript` `PostgreSQL` `React` `Tailwind CSS` `REST APIs`
 
-### Backend
+**Base técnica**
 
-Node.js · Express · REST APIs · Zod · Helmet
+<img src="https://skillicons.dev/icons?i=c,cpp,linux" height="38" alt="C, C++, Linux" />
 
-### Bases de dados
+`C` `C++` `Linux/Unix` `HTTP` `Networking` `SQL` `PHP` `MySQL`
 
-PostgreSQL · MySQL · Prisma · Drizzle
+**Ferramentas & ecossistema**
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=git,github,npm,express,prisma,docker" height="38" alt="Git, GitHub, npm, Express, Prisma, Docker" />
 
-HTML5 · CSS3 · JavaScript · React · Bootstrap
+`Git` `GitHub` `npm` `Express` `Prisma` `Drizzle` `Zod`
 
-### Sistemas e ferramentas
+### Veja um pouco do meu trabalho
 
-Linux · Unix · Git · GitHub · HTTP · networking · sockets · processos · sinais · pipes · file descriptors
+Alguns projetos que representam diferentes fases da minha evolução:
 
----
+| Projeto | Contexto | Foco |
+| --- | --- | --- |
+| [**School Management System**](https://github.com/FlavioFj20/school-management-system) | Projeto final de curso | PHP · MySQL · aplicação full-stack |
+| [**Task Tracker**](https://github.com/FlavioFj20/task_tracker) | roadmap.sh | Node.js · TypeScript · CLI · persistência local em JSON |
+| [**GitHub Activity**](https://github.com/FlavioFj20/github-activity) | roadmap.sh | Node.js · TypeScript · CLI · consumo de API |
+| [**Restaurant Management System**](https://github.com/FlavioFj20/restaurant-management-system) | Estágio | PHP · MySQL · aplicação web |
+| [**BinaryTree**](https://github.com/FlavioFj20/BinaryTree) | Prática de sistemas | C · recursão · estruturas de dados · memória |
 
-## Projetos em destaque
+### Mais sobre mim
 
-### 🏫 School Management System
+<details>
+<summary><strong>Background e trajetória de engenharia</strong></summary>
 
-**Projeto full-stack independente de conclusão de curso**, desenvolvido com PHP, MySQL, HTML, CSS, Bootstrap e JavaScript.
+Concluí um **ensino médio técnico em Informática** antes de aprofundar a minha formação em engenharia de software através de projetos, estudo autodidata e 42 Luanda.
 
-Plataforma de gestão escolar criada para reduzir tarefas administrativas manuais envolvendo alunos, professores, secretaria e coordenação académica.
+A minha experiência inclui aplicações web full-stack com **PHP/MySQL**, interfaces com JavaScript e uma stack backend em crescimento baseada em **Node.js, TypeScript e PostgreSQL**.
 
-**Foco:** regras de negócio · modelagem relacional · autenticação · workflows por papéis · CRUD · uploads · relatórios
+Na **42 Luanda**, desenvolvi uma base mais ampla de sistemas através de projetos práticos envolvendo C/C++, gestão de memória, estruturas de dados e algoritmos, Unix/Linux, processos, sinais, pipes, file descriptors, conceitos de concorrência, networking, sockets, fundamentos de HTTP e programação orientada a objetos.
 
-→ [Ver repository](https://github.com/FlavioFj20/school-management-system)
+Aprendo muito através de **prática autodidata**: quando encontro um conceito desconhecido, pesquiso documentação e referências técnicas, experimento, implemento em um projeto e volto aos fundamentos até conseguir explicar o que estou fazendo. O objetivo não é apenas fazer funcionar, mas perceber onde ainda existem lacunas.
 
-### 🍽️ Restaurant Management System
+</details>
 
-**Projeto de desenvolvimento web realizado durante estágio**, com gestão de restaurante e website público.
+<details>
+<summary><strong>42 Luanda</strong></summary>
 
-Inclui workflows de gestão, autenticação, informação sobre o restaurante, páginas relacionadas com reservas e integração com base de dados.
+A 42 é uma das partes mais fortes da minha base de engenharia porque os projetos exigem que eu resolva problemas com pouca orientação e entenda o que acontece por baixo de abstrações de nível mais alto.
 
-**Foco:** PHP · MySQL · estrutura de aplicação web · desenvolvimento orientado por requisitos
+Projetos concluídos incluem:
 
-→ [Ver repository](https://github.com/FlavioFj20/restaurant-management-system)
+- 🧰 **Libft** — fundamentos de C, gestão de memória, funções reutilizáveis e construção de bibliotecas.
+- 🖨️ **ft_printf** — funções variádicas, formatação e tratamento cuidadoso de casos-limite.
+- 📖 **get_next_line** — file descriptors, leitura com buffer, gestão de memória e estado persistente de leitura.
+- 🖥️ **Born2beroot** — administração Linux, usuários, permissões, serviços, virtualização e fundamentos de hardening.
+- 🔄 **push_swap** — algoritmos, estruturas de dados, complexidade e resolução sob restrições.
+- 🎮 **so_long** — C, lógica orientada a eventos, gráficos e gestão de recursos.
+- 📡 **minitalk** — sinais Unix, comunicação entre processos e raciocínio em nível de bits.
+- 🧵 **philosophers** — threads, mutexes, sincronização e fundamentos de concorrência.
+- 🐚 **minishell** — processos, pipes, redirections, file descriptors, sinais e comportamento de shell Unix.
+- 🕹️ **cub3d** — C, raycasting, fundamentos gráficos e arquitetura de game loop.
+- 🌐 **NetPractice** — endereçamento IP, subnetting, routing e fundamentos de redes.
+- 💬 **ft_irc** — C++98, sockets, comunicação cliente/servidor, comportamento do protocolo IRC e desenvolvimento colaborativo.
+- 📦 **CPP00 → CPP09** — C++98, orientação a objetos, herança, polimorfismo, templates, STL, exceptions e casts.
+- 🌐 **Webserv** — C++98, parsing de HTTP requests e construção de HTTP responses, com foco em compreender o protocolo e o comportamento do servidor.
+- 🐳 **Inception** — atualmente em andamento, com foco em containerização e infraestrutura orientada a serviços.
 
-### ✅ Task Tracker
+Esses projetos ajudaram-me a desenvolver o hábito de entender o sistema por baixo da abstração, em vez de tratar bibliotecas e frameworks como caixas-pretas.
 
-Projeto do roadmap.sh desenvolvido com Node.js e TypeScript como parte do meu percurso atual de aprendizagem backend.
+</details>
 
-**Foco:** TypeScript · desenvolvimento CLI · persistência · configuração estrita do compilador
+<details>
+<summary><strong>Como utilizo IA no meu fluxo de trabalho</strong></summary>
 
-→ [Ver repository](https://github.com/FlavioFj20/task_tracker)
+Utilizo IA como **acelerador de desenvolvimento e filtro de pesquisa**, não como substituto da compreensão do trabalho.
 
-### 🐙 GitHub Activity
+Dependendo da tarefa, utilizo-a para:
 
-Projeto CLI para obter e apresentar atividade do GitHub, desenvolvido como parte da prática atual com Node.js + TypeScript.
+- filtrar e resumir documentação e pesquisas técnicas;
+- comparar abordagens e expor trade-offs;
+- automatizar tarefas repetitivas de desenvolvimento e scaffolding de testes;
+- gerar templates iniciais quando já domino a tecnologia envolvida;
+- revisar planos, arquiteturas e abordagens de implementação em busca de lacunas ou pontos de falha;
+- questionar suposições e ajudar a identificar assuntos que ainda preciso estudar.
 
-**Foco:** Node.js · TypeScript · CLI · consumo de APIs
+Estou a desenvolver essa habilidade de forma deliberada: o objetivo é tornar o fluxo de trabalho mais rápido sem transferir para a IA o raciocínio, a verificação e as decisões técnicas finais.
 
-→ [Ver repository](https://github.com/FlavioFj20/github-activity)
+</details>
 
-### 🌳 Binary Tree
+<details>
+<summary><strong>No que estou focado atualmente</strong></summary>
 
-Implementação em C focada em operações sobre árvores binárias, recursão, gestão de memória e compilação com Make.
+Atualmente estou focado em construir projetos full-stack mais independentes, concentrando a maior parte do aprofundamento em backend:
 
-**Foco:** C · estruturas de dados · recursão · memória dinâmica · Make
+- Node.js + TypeScript
+- PostgreSQL + SQL
+- design de APIs e HTTP
+- validação, autenticação e autorização
+- testes e fundamentos de segurança backend
+- React + Tailwind CSS
+- arquitetura e implementação de projetos independentes
 
-→ [Ver repository](https://github.com/FlavioFj20/BinaryTree)
+Também estou a concluir o trabalho restante da 42 enquanto continuo a construir projetos práticos do roadmap.sh.
 
----
-
-## 42 Luanda
-
-A 42 tem sido uma parte importante da minha base em sistemas e engenharia de software.
-
-Ao longo do percurso trabalhei com:
-
-- C e C++
-- gestão de memória
-- estruturas de dados e algoritmos
-- Unix/Linux
-- processos e sinais
-- pipes e file descriptors
-- conceitos relacionados com concorrência
-- networking e sockets
-- fundamentos de HTTP
-- programação cliente/servidor
-- programação orientada a objetos e genérica
-
-Entre os projetos concluídos estão **Libft, ft_printf, get_next_line, Born2beroot, push_swap, so_long, minitalk, philosophers, minishell, cub3d, NetPractice, ft_irc e CPP00–CPP09**.
-
-Também trabalhei no **Webserv**, onde implementei o parsing de HTTP requests e comecei a construção de HTTP responses antes de mudar para ft_irc. O Webserv não foi concluído e, por isso, é apresentado apenas como parte da minha experiência de aprendizagem.
+</details>
 
 ---
 
-## Aprendizagem através de projetos
+<div align="center">
 
-Uso projetos para transformar conceitos em implementação, em vez de depender apenas da teoria.
+**Construir. Entender. Melhorar.**
 
-Áreas atuais de aprendizagem:
-
-- arquitetura backend
-- aprofundamento de TypeScript
-- PostgreSQL e SQL
-- design de APIs
-- autenticação e autorização
-- testes
-- fundamentos de segurança
-- Docker e práticas de deployment
-- desenvolvimento full-stack
-
-Também continuo a trabalhar nos projetos do roadmap.sh e planeio reconstruir algumas aplicações antigas com stacks modernas para documentar a evolução da minha abordagem de engenharia.
-
----
-
-## Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/flávio-garcia-1b63aa368)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/flaviofuxipinto)
-
-📍 Luanda, Angola
-
----
-
-<sub>A construir software, a compreender sistemas e a transformar aprendizagem guiada em prática de engenharia cada vez mais independente.</sub>
+</div>

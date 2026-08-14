@@ -1,212 +1,151 @@
-# Hi, I'm Flávio Garcia 👋
+<div align="center">
+
+# Flávio Garcia
 
 ### Full-Stack Software Developer | Backend-Focused | Node.js · TypeScript · C/C++
 
-[🇬🇧 English](README.md) · [🇵🇹 Português](README.pt.md)
+**42 Luanda Cadet · Luanda, Angola**
 
-I build web applications and software systems, with a growing focus on backend engineering.
+I build software across the stack, with a backend focus and a strong systems-programming foundation.
 
-My experience started with PHP/MySQL web applications and expanded through systems programming, Unix/Linux and networking at 42 Luanda. I am now deepening my backend skills with Node.js, TypeScript, PostgreSQL and API development while continuing to build full-stack projects.
+<p>
+  <a href="README.pt.md">🇵🇹 Português</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/flávio-garcia-1b63aa368">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:flavio.garcia.dev86@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/flaviofuxipinto">Instagram</a>
+</p>
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,react,tailwind,php,mysql,c,cpp,linux" alt="Node.js, TypeScript, PostgreSQL, React, Tailwind CSS, PHP, MySQL, C, C++, Linux" />
 
-## About me
-
-I'm a software developer in training with hands-on experience across frontend, backend, databases, systems programming and networking.
-
-My current direction is **full-stack development with a stronger focus on backend engineering**. I enjoy understanding how software works across layers — from C/C++ and operating-system concepts to HTTP, APIs, databases and web applications.
-
-My development path has included:
-
-- PHP + MySQL full-stack applications
-- JavaScript and browser-based web development
-- C/C++ systems programming through 42 Luanda
-- Unix/Linux and networking fundamentals
-- Node.js and TypeScript backend development
-- REST APIs, HTTP and relational databases
-- CLI applications and database-backed projects
-
-I don't consider myself an expert yet. My goal is to keep moving from guided learning toward increasingly independent software design and implementation.
+</div>
 
 ---
 
-## Current focus
+### My path
 
-```text
-Full-Stack Development
-        │
-        ├── Backend
-        │   ├── Node.js
-        │   ├── TypeScript
-        │   ├── Express
-        │   ├── REST APIs
-        │   └── PostgreSQL
-        │
-        ├── Frontend
-        │   ├── HTML
-        │   ├── CSS
-        │   ├── JavaScript
-        │   └── React
-        │
-        └── Engineering Foundation
-            ├── C / C++
-            ├── Linux / Unix
-            ├── HTTP
-            └── Networking
-```
+I started with a **technical secondary education in Informatics**, then built web applications with **PHP/MySQL** and continued developing through **42 Luanda**, where I strengthened my foundations in C/C++, Unix/Linux, networking and software engineering.
 
-Currently I am:
+Today, I use **Node.js and TypeScript** to build and study backend systems while continuing to grow as a full-stack developer. A big part of that growth comes from **self-directed learning**: reading documentation, researching unfamiliar concepts, building projects, testing ideas and using each project to expose the next gap I need to close.
 
-- Building Node.js + TypeScript projects from roadmap.sh
-- Strengthening PostgreSQL, SQL and API design
-- Practicing backend architecture and testing
-- Continuing my 42 Luanda journey, currently working on Inception
-- Preparing to rebuild older projects with a modern stack to compare earlier and current engineering approaches
+> **Want a deeper look at my background, projects and technical journey?**  
+> [**Explore more about me →**](#more-about-me)
 
----
+### Technologies I use
 
-## Technologies I've worked with
+**Current focus**
 
-### Languages
+<img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,react,tailwind" height="38" alt="Node.js, TypeScript, PostgreSQL, React, Tailwind CSS" />
 
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=777BB4)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white)
+`Node.js` `TypeScript` `PostgreSQL` `React` `Tailwind CSS` `REST APIs`
 
-### Backend
+**Foundation**
 
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-111111?style=flat-square)
-![Zod](https://img.shields.io/badge/Zod-111111?style=flat-square&logo=zod&logoColor=white)
-![Helmet](https://img.shields.io/badge/Helmet-111111?style=flat-square)
+<img src="https://skillicons.dev/icons?i=c,cpp,linux" height="38" alt="C, C++, Linux" />
 
-### Databases
+`C` `C++` `Linux/Unix` `HTTP` `Networking` `SQL` `PHP` `MySQL`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1)
-![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-111111?style=flat-square&logo=drizzle&logoColor=C5F74F)
+**Tools & ecosystem**
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=git,github,npm,express,prisma,docker" height="38" alt="Git, GitHub, npm, Express, Prisma, Docker" />
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat-square&logo=bootstrap&logoColor=7952B3)
+`Git` `GitHub` `npm` `Express` `Prisma` `Drizzle` `Zod`
 
-### Systems & Networking
+### Take a look at my work
 
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
+A few projects that represent different stages of my development:
 
-C/C++, Unix/Linux, HTTP, sockets, processes, signals, pipes, file descriptors and networking concepts are part of my systems foundation from 42 Luanda.
+| Project | Context | Focus |
+| --- | --- | --- |
+| [**School Management System**](https://github.com/FlavioFj20/school-management-system) | Final-year project | PHP · MySQL · full-stack application |
+| [**Task Tracker**](https://github.com/FlavioFj20/task_tracker) | roadmap.sh | Node.js · TypeScript · CLI · local JSON persistence |
+| [**GitHub Activity**](https://github.com/FlavioFj20/github-activity) | roadmap.sh | Node.js · TypeScript · CLI · API consumption |
+| [**Restaurant Management System**](https://github.com/FlavioFj20/restaurant-management-system) | Internship | PHP · MySQL · web application |
+| [**BinaryTree**](https://github.com/FlavioFj20/BinaryTree) | Systems practice | C · recursion · data structures · memory |
 
----
+### More about me
 
-## Featured work
+<details>
+<summary><strong>Background & engineering journey</strong></summary>
 
-### 🏫 School Management System
+I completed a **technical secondary education in Informatics** before moving deeper into software engineering through projects, self-study and 42 Luanda.
 
-**Independent final-year full-stack project** built with PHP, MySQL, HTML, CSS, Bootstrap and JavaScript.
+My experience includes full-stack web applications with **PHP/MySQL**, JavaScript-based interfaces, and a growing backend-oriented stack around **Node.js, TypeScript and PostgreSQL**.
 
-A school-management platform designed to reduce manual administration across students, teachers, secretariat and academic coordination workflows.
+At **42 Luanda**, I developed a broader systems foundation through hands-on projects involving C/C++, memory management, data structures and algorithms, Unix/Linux, processes, signals, pipes, file descriptors, concurrency concepts, networking, sockets, HTTP fundamentals and object-oriented programming.
 
-**Focus:** business rules · relational database design · authentication · role-based workflows · CRUD · uploads · reporting
+I learn largely through **self-directed practice**: when I encounter an unfamiliar concept, I research documentation and technical references, experiment with it, implement it in a project and revisit the underlying concepts until I can explain what I am doing. The goal is not just to make something work, but to understand where the gaps are.
 
-→ [View repository](https://github.com/FlavioFj20/school-management-system)
+</details>
 
-### 🍽️ Restaurant Management System
+<details>
+<summary><strong>42 Luanda</strong></summary>
 
-**Internship web-development project** built around restaurant management and a public-facing website.
+42 has been one of the strongest parts of my engineering foundation because the projects force me to solve problems with relatively little hand-holding and to understand what is happening below higher-level abstractions.
 
-The system includes management workflows, authentication, restaurant information, reservation-related pages and database integration.
+Completed work includes:
 
-**Focus:** PHP · MySQL · web application structure · requirements-driven development
+- 🧰 **Libft** — C fundamentals, memory handling, reusable functions and library design.
+- 🖨️ **ft_printf** — variadic functions, formatted output and careful handling of edge cases.
+- 📖 **get_next_line** — file descriptors, buffered reading, memory management and persistent read state.
+- 🖥️ **Born2beroot** — Linux administration, users, permissions, services, virtualization and system hardening fundamentals.
+- 🔄 **push_swap** — algorithms, data structures, complexity trade-offs and constrained problem solving.
+- 🎮 **so_long** — C, event-driven application logic, graphics and resource management.
+- 📡 **minitalk** — Unix signals, process communication and bit-level thinking.
+- 🧵 **philosophers** — threads, mutexes, synchronization and concurrency fundamentals.
+- 🐚 **minishell** — processes, pipes, redirections, signals, file descriptors and Unix shell behavior.
+- 🕹️ **cub3d** — C, raycasting, graphics fundamentals and game-loop architecture.
+- 🌐 **NetPractice** — IP addressing, subnetting, routing and network fundamentals.
+- 💬 **ft_irc** — C++98, sockets, client/server communication, IRC protocol behavior and collaborative development.
+- 📦 **CPP00 → CPP09** — C++98, object-oriented programming, inheritance, polymorphism, templates, STL, exceptions and casts.
+- 🌐 **Webserv** — C++98, HTTP request parsing and HTTP response construction, with a focus on understanding the protocol and server behavior.
+- 🐳 **Inception** — currently in progress, focused on containerization and service-oriented infrastructure.
 
-→ [View repository](https://github.com/FlavioFj20/restaurant-management-system)
+These projects helped me develop a habit of understanding the system underneath the abstraction rather than treating libraries and frameworks as black boxes.
 
-### ✅ Task Tracker
+</details>
 
-A roadmap.sh project built with Node.js and TypeScript as part of my current backend learning path.
+<details>
+<summary><strong>How I use AI in my workflow</strong></summary>
 
-**Focus:** TypeScript · CLI development · persistence · strict compiler configuration
+I use AI as a **development accelerator and research filter**, not as a substitute for understanding the work.
 
-→ [View repository](https://github.com/FlavioFj20/task_tracker)
+Depending on the task, I use it to:
 
-### 🐙 GitHub Activity
+- filter and summarize documentation and technical research;
+- compare approaches and expose trade-offs;
+- automate repetitive development tasks and test scaffolding;
+- generate starting templates when I already understand the technology involved;
+- review plans, architectures and implementation approaches for gaps or failure points;
+- challenge assumptions and help identify areas I still need to study.
 
-A command-line project for retrieving and presenting GitHub activity as part of my Node.js + TypeScript practice.
+I am still developing this skill deliberately: the goal is to make my workflow faster while keeping the reasoning, verification and final technical decisions under my responsibility.
 
-**Focus:** Node.js · TypeScript · CLI development · API consumption
+</details>
 
-→ [View repository](https://github.com/FlavioFj20/github-activity)
+<details>
+<summary><strong>Current focus</strong></summary>
 
-### 🌳 Binary Tree
+I am currently focused on building stronger independent full-stack projects, with most of my depth going into backend development:
 
-A C implementation focused on binary-tree operations, recursion, memory management and a small Make-based build workflow.
+- Node.js + TypeScript
+- PostgreSQL + SQL
+- API design and HTTP
+- validation, authentication and authorization
+- testing and backend security fundamentals
+- React + Tailwind CSS
+- architecture and implementation of independent projects
 
-**Focus:** C · data structures · recursion · dynamic memory · Make
+I am also completing the remaining 42 work while continuing to build practical roadmap.sh projects.
 
-→ [View repository](https://github.com/FlavioFj20/BinaryTree)
+</details>
 
 ---
 
-## 42 Luanda
+<div align="center">
 
-42 has been an important part of my systems and software-engineering foundation.
+**Build it. Understand it. Improve it.**
 
-Through the curriculum I have worked on projects involving:
-
-- C and C++
-- memory management
-- data structures and algorithms
-- Unix/Linux
-- processes and signals
-- pipes and file descriptors
-- concurrency-related concepts
-- networking and sockets
-- HTTP fundamentals
-- client/server programming
-- object-oriented and generic programming
-
-Projects completed include **Libft, ft_printf, get_next_line, Born2beroot, push_swap, so_long, minitalk, philosophers, minishell, cub3d, NetPractice, ft_irc and CPP00–CPP09**.
-
-I also worked on **Webserv**, where I implemented HTTP request parsing and started building HTTP responses before moving to ft_irc. Webserv was not completed and is therefore presented only as part of my learning experience.
-
----
-
-## Learning through projects
-
-I use projects to turn concepts into implementation rather than relying only on theory.
-
-Current learning areas include:
-
-- backend architecture
-- TypeScript depth
-- PostgreSQL and SQL
-- API design
-- authentication and authorization
-- testing
-- security fundamentals
-- Docker and deployment practices
-- full-stack application design
-
-I am also working through roadmap.sh projects and plan to rebuild some older applications with a modern stack to document how my engineering approach has evolved.
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/flávio-garcia-1b63aa368)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/flaviofuxipinto)
-
-📍 Luanda, Angola
-
----
-
-<sub>Building software, understanding systems, and gradually turning guided learning into independent engineering practice.</sub>
+</div>
